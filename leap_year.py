@@ -7,7 +7,7 @@
 
 
 def main():
-    # Get the year a string
+    # Get the year as a string
     year_as_string = input("Enter a year: ")
 
     try:
