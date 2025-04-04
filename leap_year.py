@@ -28,7 +28,7 @@ def main():
                     else:
                         # If it's divisible by 4 and 100,
                         # but not divisible by 400,
-                        # it's a leap year
+                        # it's not a leap year
                         print(f"{year} is NOT a leap year.")
                 else:
                     # If it's divisible by 4
